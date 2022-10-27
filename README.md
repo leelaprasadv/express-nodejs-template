@@ -8,6 +8,7 @@ express-nodejs-template is a sample NodeJS (ExpressJS) based backend service imp
 
 Next steps:
 * Support with docker & docker-compose
+* Add unit and component tests (PatumJS)
 
 # Setup
 
